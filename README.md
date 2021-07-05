@@ -2,6 +2,8 @@
 
 <!--
   ## About me
+## Social networks
+## What I know? 
 -->
 ## Resume
 [PT-BR](https://github.com/gabssanto/gabssanto/files/6766222/Curriculo.pdf)
