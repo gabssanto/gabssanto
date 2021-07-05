@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello there 👋
+## Resume
+[PT](https://github.com/gabssanto/gabssanto/files/6766222/Curriculo.pdf)
+
 
 <!--
 **gabssanto/gabssanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
