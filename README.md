@@ -1,6 +1,11 @@
 # Hello there 👋
+
+<!--
+  ## About me
+-->
 ## Resume
-[PT](https://github.com/gabssanto/gabssanto/files/6766222/Curriculo.pdf)
+[PT-BR](https://github.com/gabssanto/gabssanto/files/6766222/Curriculo.pdf)
+[EN]
 
 
 <!--
