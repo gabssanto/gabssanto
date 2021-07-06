@@ -18,7 +18,7 @@
 [EN]
 
 ## 📫 How to reach me
-<a href="https://www.instagram.com/gabssanto/" target="_blank">
+<a href="https://www.instagram.com/gabssanto/" target="_blank" rel="noopener noreferrer">
   <img alt="Instagram" src="https://img.shields.io/badge/gabssanto-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 <!--
