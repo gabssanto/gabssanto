@@ -18,7 +18,9 @@
 [EN]
 
 ## 📫 How to reach me
-<img alt="Instagram" src="https://img.shields.io/badge/gabssanto-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/gabssanto/" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/gabssanto-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
 <!--
 **gabssanto/gabssanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
