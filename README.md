@@ -20,7 +20,7 @@
 ## My Experience
 
 <div>
-  <a href="https://github.com/gabssanto/gabssanto/files/6766222/Curriculo.pdf">
+  <a href="https://www.notion.so/gabssanto/Curr-culo-2dc6bd2db7f94c188a2974f42d15e774">
     <img alt="Notion" src="https://img.shields.io/badge/Currículo-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 
