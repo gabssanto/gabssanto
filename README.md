@@ -47,6 +47,13 @@
     <img alt="Instagram" src="https://img.shields.io/badge/gabssanto-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
+
+## Listen to my Podcast, Pub dos Devs (PT-BR)
+
+<a href="https://open.spotify.com/show/1KfViIp4tdVj7ga1ADEL2M?si=-a10AICnT5eywbDMkYs8pg&dl_branch=1">
+  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+<iframe src="https://open.spotify.com/embed-podcast/show/1KfViIp4tdVj7ga1ADEL2M" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <!--
 **gabssanto/gabssanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
