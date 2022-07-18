@@ -20,10 +20,6 @@
 ## My Experience
 
 <div>
-  <a href="https://www.notion.so/gabssanto/Curr-culo-2dc6bd2db7f94c188a2974f42d15e774">
-    <img alt="Notion" src="https://img.shields.io/badge/Currículo-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-
   <a href="https://www.notion.so/gabssanto/Resume-f13cd860eaa9400295b4ee0a1e0ece01">
     <img alt="Notion" src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
