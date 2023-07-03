@@ -1,11 +1,10 @@
-# Hello there 👋
+# Hi there, I'm Gabriel 👋
 
-<!--
-  ## About me
-## Social networks
--->
+I'm a Full Stack Developer with a focus on TypeScript, React, Flutter, and Python. I'm passionate about learning new technologies and building impactful solutions. I'm also the host of a tech podcast called "Pub dos Devs". Feel free to reach out if you want to collaborate on a project, need help with something, or just want to say hi!
 
-## Technologies I'm most used to work with
+[![Tech Talks](https://img.shields.io/badge/Visit_My_Blog-%23FF7139.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabssanto/TechTalks)
+
+## 💻 Technologies & Tools
 
 <div>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -17,17 +16,11 @@
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-## My Experience
+## 🚀 Experience
 
-<div>
-  <a href="https://www.notion.so/gabssanto/Resume-f13cd860eaa9400295b4ee0a1e0ece01">
-    <img alt="Notion" src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-</div>
-<!-- [PT-BR](https://github.com/gabssanto/gabssanto/files/6766222/Curriculo.pdf)
-[EN] -->
+[![Resume](https://img.shields.io/badge/My_Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/gabssanto/Resume-f13cd860eaa9400295b4ee0a1e0ece01)
 
-## 📫 How to reach me
+## 📬 Get in Touch
 
 <div>
   <a href="https://www.linkedin.com/in/gabssanto/">
@@ -44,23 +37,6 @@
   </a>
 </div>
 
-## Listen to my Podcast, Pub dos Devs (PT-BR)
+## 🎙️ Check Out My Podcast
 
-<a href="https://open.spotify.com/show/1KfViIp4tdVj7ga1ADEL2M?si=-a10AICnT5eywbDMkYs8pg&dl_branch=1">
-  <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
-<!--
-**gabssanto/gabssanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+[![Spotify](https://img.shields.io/badge/Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/1KfViIp4tdVj7ga1ADEL2M?si=-a10AICnT5eywbDMkYs8pg&dl_branch=1)
