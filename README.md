@@ -8,7 +8,7 @@ I am most useful when a team needs to turn manual operations into software, move
 
 Based in Brasília, Brazil — working remotely with international teams.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabesanto) [![Email](https://img.shields.io/badge/Email-Let's_talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:espiritosanto.gabriel@gmail.com?subject=Consulting%20inquiry&body=Company%3A%0AWhat%20are%20you%20trying%20to%20build%20or%20improve%3F%0ACurrent%20bottleneck%3A%0ATimeline%3A) [![Friendly](https://img.shields.io/badge/Friendly-Products-111111?style=for-the-badge)](https://usefriendly.app)
+[LinkedIn ↗](https://www.linkedin.com/in/gabesanto) · [Email ↗](mailto:espiritosanto.gabriel@gmail.com?subject=Consulting%20inquiry&body=Company%3A%0AWhat%20are%20you%20trying%20to%20build%20or%20improve%3F%0ACurrent%20bottleneck%3A%0ATimeline%3A) · [Friendly ↗](https://usefriendly.app)
 
 > **Building something around AI, automation, or platform engineering?**<br>
 > I take on a small number of consulting, advisory, and product-engineering engagements. [Tell me what you are building](mailto:espiritosanto.gabriel@gmail.com?subject=Consulting%20inquiry&body=Company%3A%0AWhat%20are%20you%20trying%20to%20build%20or%20improve%3F%0ACurrent%20bottleneck%3A%0ATimeline%3A) or [connect on LinkedIn](https://www.linkedin.com/in/gabesanto).
